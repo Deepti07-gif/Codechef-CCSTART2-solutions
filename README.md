@@ -1,0 +1,2 @@
+# Codechef-CCSTART2-solutions
+SOLUTIONS OF ccstart 2 CODECHEF COMPETITION IN C++.

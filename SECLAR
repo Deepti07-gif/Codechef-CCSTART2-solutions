@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	// your code goes here
+	int A,B,C;
+	cin>>A>>B>>C;
+	int x=min(min(A,B),C);
+	int y=max(max(A,B),C);
+	int ans=(A+B+C)-(x+y);
+	
+	cout<<ans;
+	return 0;
+}
